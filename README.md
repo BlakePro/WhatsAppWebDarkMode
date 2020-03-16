@@ -4,7 +4,7 @@ No permissions needed
 
 WhatsApp Web Dark Mode (Via console)
 ```
-  1) Open https://raw.githubusercontent.com/BlakePro/WhatsAppWebDarkMode/master/WhatsAppDarkModeChromeExtension/whatsapp_black.js
+  1) Open [WhatsApp Web Dark Mode](https://raw.githubusercontent.com/BlakePro/WhatsAppWebDarkMode/master/WhatsAppDarkModeChromeExtension/whatsapp_black.js)
   
   2) Copy content
   
