@@ -20,7 +20,7 @@ No permissions needed
 
   1) Download folder and unzip
 
-  2) Open chrome://extensions/
+  2) Open [chrome://extensions/](chrome://extensions/)
   
   ![Chrome Extension Config](https://github.com/BlakePro/WhatsAppWebDarkMode/blob/master/WhatAppDarkExtensionExample.png "Chrome Extension Config")
   
