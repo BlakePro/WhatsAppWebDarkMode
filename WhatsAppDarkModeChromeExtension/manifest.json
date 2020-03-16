@@ -1,1 +1,21 @@
-.
+{
+  "name": "WhatsAppDarkMode",
+  "version": "1",
+  "manifest_version": 2,
+  "description": "WhatsApp Dark Mode",
+  "homepage_url": "https://github.com/BlakePro",
+  "background": {
+    "scripts": [
+      "background.js"
+    ],
+    "persistent": true
+  },
+  "browser_action": {
+    "default_title": "WhatsApp Dark Mode"
+  },
+  "permissions": [
+    "https://*/*",
+    "http://*/*",
+    "tabs"
+  ]
+}
