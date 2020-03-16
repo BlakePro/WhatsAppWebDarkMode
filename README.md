@@ -3,6 +3,8 @@
 No permissions needed
 
 
+ ![WhatsApp Web Dark Mode](https://github.com/BlakePro/WhatsAppWebDarkMode/blob/master/WhatAppWebDarkMode.png "WhatsApp Web Dark Mode")
+
 # WhatsApp Web Dark Mode (Via console)
 
   1) Open [WhatsApp Web Dark Mode](https://raw.githubusercontent.com/BlakePro/WhatsAppWebDarkMode/master/WhatsAppDarkModeChromeExtension/whatsapp_black.js)
@@ -20,9 +22,9 @@ No permissions needed
 
   2) Open chrome://extensions/
   
-  ![alt text](https://github.com/BlakePro/WhatsAppWebDarkMode/blob/master/WhatAppDarkExtensionExample.png "Chrome Extension Config")
+  ![Chrome Extension Config](https://github.com/BlakePro/WhatsAppWebDarkMode/blob/master/WhatAppDarkExtensionExample.png "Chrome Extension Config")
   
-  3) Check Develop Mode on
+  3) Check Developer Mode ON
   
   4) Click on load unpacked
   
