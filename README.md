@@ -20,6 +20,8 @@ No permissions needed
 
   2) Open chrome://extensions/
   
+  ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Chrome Extension Config")
+  
   3) Check Develop Mode on
   
   4) Click on load unpacked
