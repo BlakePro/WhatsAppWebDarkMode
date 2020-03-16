@@ -18,7 +18,8 @@ No permissions needed
 
 # WhatsApp Web Dark Mode (Chrome Extension)
 
-  1) Download folder and unzip
+  1) [Download folder and unzip](https://github.com/BlakePro/WhatsAppWebDarkMode/archive/master.zip)
+  
 
   2) Open [chrome://extensions/](chrome://extensions/)
   
